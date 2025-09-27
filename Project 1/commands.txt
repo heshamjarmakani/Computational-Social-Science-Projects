@@ -1,0 +1,12 @@
+$ git clone https://github.com/heshamjarmakani/Computational-Social-Science-Projects.git
+
+$ cd Computational-Social-Science-Projects/
+
+$ mkdir "Project 1"
+
+$ cd "Project 1"
+
+$ touch commands
+
+$ vim commands
+
